@@ -5,8 +5,8 @@ Collection of Leetcode Problems solved in C++ by Tushar Shrivastav (tspython).
 ______________________________________________________________________________________________________________
 **Array**
 - [x] Two Sum
-- [ ] Best Time to Buy and Sell Stock
-- [ ] Contains Duplicate
+- [x] Best Time to Buy and Sell Stock
+- [x] Contains Duplicate
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
