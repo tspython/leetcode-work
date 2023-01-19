@@ -7,7 +7,7 @@ ________________________________________________________________________________
 - [x] Two Sum
 - [x] Best Time to Buy and Sell Stock
 - [x] Contains Duplicate
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
